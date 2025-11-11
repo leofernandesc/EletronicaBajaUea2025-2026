@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "EspSender",
+			"path": "../EspSender"
+		},
+		{
+			"name": "EspReceiver",
+			"path": "../EspReceiver"
+		}
+	],
+	"settings": {}
+}

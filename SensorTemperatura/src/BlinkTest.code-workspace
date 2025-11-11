@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BlinkTest",
+			"path": ".."
+		},
+		{
+			"name": "TesteNano",
+			"path": "../../TesteNano"
+		}
+	],
+	"settings": {}
+}
